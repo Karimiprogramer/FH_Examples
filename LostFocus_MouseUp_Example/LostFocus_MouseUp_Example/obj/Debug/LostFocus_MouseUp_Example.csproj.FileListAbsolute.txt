@@ -1,0 +1,9 @@
+C:\Users\shahn\Desktop\LostFocus_MouseUp_Example\LostFocus_MouseUp_Example\bin\Debug\LostFocus_MouseUp_Example.exe
+C:\Users\shahn\Desktop\LostFocus_MouseUp_Example\LostFocus_MouseUp_Example\bin\Debug\LostFocus_MouseUp_Example.pdb
+C:\Users\shahn\Desktop\LostFocus_MouseUp_Example\LostFocus_MouseUp_Example\obj\Debug\LostFocus_MouseUp_Example.csproj.AssemblyReference.cache
+C:\Users\shahn\Desktop\LostFocus_MouseUp_Example\LostFocus_MouseUp_Example\obj\Debug\LostFocus_MouseUp_Example.Form1.resources
+C:\Users\shahn\Desktop\LostFocus_MouseUp_Example\LostFocus_MouseUp_Example\obj\Debug\LostFocus_MouseUp_Example.Properties.Resources.resources
+C:\Users\shahn\Desktop\LostFocus_MouseUp_Example\LostFocus_MouseUp_Example\obj\Debug\LostFocus_MouseUp_Example.csproj.GenerateResource.cache
+C:\Users\shahn\Desktop\LostFocus_MouseUp_Example\LostFocus_MouseUp_Example\obj\Debug\LostFocus_MouseUp_Example.csproj.CoreCompileInputs.cache
+C:\Users\shahn\Desktop\LostFocus_MouseUp_Example\LostFocus_MouseUp_Example\obj\Debug\LostFocus_MouseUp_Example.exe
+C:\Users\shahn\Desktop\LostFocus_MouseUp_Example\LostFocus_MouseUp_Example\obj\Debug\LostFocus_MouseUp_Example.pdb

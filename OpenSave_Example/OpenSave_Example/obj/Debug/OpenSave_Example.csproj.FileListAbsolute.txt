@@ -1,0 +1,9 @@
+C:\Users\shahn\Desktop\OpenSave_Example\OpenSave_Example\bin\Debug\OpenSave_Example.exe
+C:\Users\shahn\Desktop\OpenSave_Example\OpenSave_Example\bin\Debug\OpenSave_Example.pdb
+C:\Users\shahn\Desktop\OpenSave_Example\OpenSave_Example\obj\Debug\OpenSave_Example.csproj.AssemblyReference.cache
+C:\Users\shahn\Desktop\OpenSave_Example\OpenSave_Example\obj\Debug\OpenSave_Example.Form1.resources
+C:\Users\shahn\Desktop\OpenSave_Example\OpenSave_Example\obj\Debug\OpenSave_Example.Properties.Resources.resources
+C:\Users\shahn\Desktop\OpenSave_Example\OpenSave_Example\obj\Debug\OpenSave_Example.csproj.GenerateResource.cache
+C:\Users\shahn\Desktop\OpenSave_Example\OpenSave_Example\obj\Debug\OpenSave_Example.csproj.CoreCompileInputs.cache
+C:\Users\shahn\Desktop\OpenSave_Example\OpenSave_Example\obj\Debug\OpenSave_Example.exe
+C:\Users\shahn\Desktop\OpenSave_Example\OpenSave_Example\obj\Debug\OpenSave_Example.pdb

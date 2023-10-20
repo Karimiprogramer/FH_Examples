@@ -1,0 +1,9 @@
+C:\Users\shahn\Desktop\ToolStrip_Example\ToolStrip_Example\bin\Debug\ToolStrip_Example.exe
+C:\Users\shahn\Desktop\ToolStrip_Example\ToolStrip_Example\bin\Debug\ToolStrip_Example.pdb
+C:\Users\shahn\Desktop\ToolStrip_Example\ToolStrip_Example\obj\Debug\ToolStrip_Example.csproj.AssemblyReference.cache
+C:\Users\shahn\Desktop\ToolStrip_Example\ToolStrip_Example\obj\Debug\ToolStrip_Example.Form1.resources
+C:\Users\shahn\Desktop\ToolStrip_Example\ToolStrip_Example\obj\Debug\ToolStrip_Example.Properties.Resources.resources
+C:\Users\shahn\Desktop\ToolStrip_Example\ToolStrip_Example\obj\Debug\ToolStrip_Example.csproj.GenerateResource.cache
+C:\Users\shahn\Desktop\ToolStrip_Example\ToolStrip_Example\obj\Debug\ToolStrip_Example.csproj.CoreCompileInputs.cache
+C:\Users\shahn\Desktop\ToolStrip_Example\ToolStrip_Example\obj\Debug\ToolStrip_Example.exe
+C:\Users\shahn\Desktop\ToolStrip_Example\ToolStrip_Example\obj\Debug\ToolStrip_Example.pdb
